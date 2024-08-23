@@ -1,2 +1,2 @@
-# Rokhto-Painting
+# Rothko-Painting
 FreeCodeCamp Responsive Web Design course
